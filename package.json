@@ -1,0 +1,28 @@
+{
+  "name": "BLT_NEW",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "roboto-fontface": "*",
+    "router": "^1.3.8",
+    "vue": "^3.4.0",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.0.13",
+    "vuetify": "^3.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
+    "unplugin-fonts": "^1.1.1",
+    "unplugin-vue-components": "^0.26.0",
+    "vite": "^5.1.5",
+    "vite-plugin-vuetify": "^2.0.3"
+  }
+}
